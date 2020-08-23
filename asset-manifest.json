@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IgnitionHacks/static/css/main.389f04da.chunk.css",
+    "main.js": "/IgnitionHacks/static/js/main.5c5c755e.chunk.js",
+    "main.js.map": "/IgnitionHacks/static/js/main.5c5c755e.chunk.js.map",
+    "runtime-main.js": "/IgnitionHacks/static/js/runtime-main.4a1ec979.js",
+    "runtime-main.js.map": "/IgnitionHacks/static/js/runtime-main.4a1ec979.js.map",
+    "static/css/2.f21ee910.chunk.css": "/IgnitionHacks/static/css/2.f21ee910.chunk.css",
+    "static/js/2.99631b63.chunk.js": "/IgnitionHacks/static/js/2.99631b63.chunk.js",
+    "static/js/2.99631b63.chunk.js.map": "/IgnitionHacks/static/js/2.99631b63.chunk.js.map",
+    "index.html": "/IgnitionHacks/index.html",
+    "precache-manifest.11d8fc2e96272ee981f9a6a9206f551f.js": "/IgnitionHacks/precache-manifest.11d8fc2e96272ee981f9a6a9206f551f.js",
+    "service-worker.js": "/IgnitionHacks/service-worker.js",
+    "static/css/2.f21ee910.chunk.css.map": "/IgnitionHacks/static/css/2.f21ee910.chunk.css.map",
+    "static/css/main.389f04da.chunk.css.map": "/IgnitionHacks/static/css/main.389f04da.chunk.css.map",
+    "static/js/2.99631b63.chunk.js.LICENSE.txt": "/IgnitionHacks/static/js/2.99631b63.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/IgnitionHacks/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a1ec979.js",
+    "static/css/2.f21ee910.chunk.css",
+    "static/js/2.99631b63.chunk.js",
+    "static/css/main.389f04da.chunk.css",
+    "static/js/main.5c5c755e.chunk.js"
+  ]
+}
