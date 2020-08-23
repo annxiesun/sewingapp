@@ -4,7 +4,7 @@
   "description": "",
   "main": "precache-manifest.11d8fc2e96272ee981f9a6a9206f551f.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
