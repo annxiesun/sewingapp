@@ -1,0 +1,22 @@
+{
+  "name": "ignitionhacks-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.11d8fc2e96272ee981f9a6a9206f551f.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annxiesun/sewingapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annxiesun/sewingapp/issues"
+  },
+  "homepage": "https://github.com/annxiesun/sewingapp#readme",
+  "dependencies": {
+    "react-dropdown": "^1.8.0"
+  }
+}
